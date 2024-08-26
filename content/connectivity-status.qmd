@@ -48,8 +48,8 @@ df
 #| warning: false
 #| echo: false
 df = pd.DataFrame({"Goal #": [1,2],
-                   "Goal": ["By 2040, the percent (%) of total linear habitat accessible to anadromous salmon will increase from " + str(api.connect)+"% " + " to 96% within the Horsefly River watershed (i.e., reconnect at least "+ str(api.gain) +" km of habitat).",
-                            "By 2024, the total area of overwintering habitat accessible to Anadromous Salmon will increase by 1,500 m2 within the Horsefly River watershed. "]
+                   "Goal": ["By 2040, the percent (%) of total linear habitat accessible to anadromous salmon will increase from " + str(api.connect)+"% " + " to 96% within the Thompson-Shuswap watershed (i.e., reconnect at least "+ str(api.gain) +" km of habitat).",
+                            "By 2024, the total area of overwintering habitat accessible to Anadromous Salmon will increase by 1,500 m2 within the Thompson-Shuswap watershed. "]
                     })
 
 data = df.style.hide().set_properties(**{'text-align': 'left'})
