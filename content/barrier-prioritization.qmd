@@ -12,6 +12,9 @@ warnings.filterwarnings('ignore')
 library(reticulate)
 api <- import("python.api_calls")
 gain <- api$gain
+connect <- api$connect
+total <- api$total
+access <- api$access
 
 source("Rscripts/table_formatting.R")
 
@@ -32,9 +35,9 @@ The primary conservation outcome of the WCRP will be the remediation of barriers
 #| echo: false
 
 # Variables to API calls
-connect = api.watershed_connectivity("ALL")[0]
-total = round(api.watershed_connectivity("ALL")[1],2) #total km in watershed
-access = round(api.watershed_connectivity("ALL")[2],2)
+connect = api.watershed_connectivity("ALL", 'BONP')[0]
+total = round(api.watershed_connectivity("ALL", 'BONP')[1],2) #total km in watershed
+access = round(api.watershed_connectivity("ALL", 'BONP')[2],2)
 gain = round((total*0.96)-access,2)
 
 # Data frame with table info

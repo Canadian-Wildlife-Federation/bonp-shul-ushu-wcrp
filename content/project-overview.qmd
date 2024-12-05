@@ -106,17 +106,17 @@ def condition(pct):
 def rating(threat, barrier):
     if threat == "extent":
         if barrier == "DAM":
-            pct = api.barrier_extent(barrier)[1]
+            pct = api.barrier_extent(barrier, 'BONP')[1]
             rating = condition(pct)
         elif barrier == "ROAD":
-            pct = api.barrier_extent('ROAD, RESOURCE/OTHER')[1] + api.barrier_extent('ROAD, DEMOGRAPHIC')[1]
+            pct = api.barrier_extent('ROAD, RESOURCE/OTHER', 'BONP')[1] + api.barrier_extent('ROAD, DEMOGRAPHIC', 'BONP')[1]
             rating = condition(pct)
     elif threat == "severity":
         if barrier == "DAM":
-            pct = api.barrier_severity(barrier)[2]
+            pct = api.barrier_severity(barrier, 'BONP')[2]
             rating = condition(pct)
         elif barrier == "ROAD":
-            pct = api.barrier_severity('ROAD, RESOURCE/OTHER')[2] + api.barrier_severity('ROAD, DEMOGRAPHIC')[2]
+            pct = api.barrier_severity('ROAD, RESOURCE/OTHER', 'BONP')[2] + api.barrier_severity('ROAD, DEMOGRAPHIC', 'BONP')[2] 
             rating = condition(pct)
             
     return rating
