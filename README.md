@@ -1,4 +1,4 @@
-# Thomson-Shuswap WCRP
+# Template WCRP
 This repository is built and maintained by the Canadian Wildlife Federation (CWF). The repository contains a jupyter book and a Quarto book used for the live reporting of the WCRP.
 
 ## Anaconda Prompt
