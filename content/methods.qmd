@@ -31,13 +31,13 @@ Model outputs informed, rather than directed, field planning. Of the top-ranked 
 
 These selected structures were then assessed by a field crew from SFC and the Yucwmenlúcwu (Caretakers of the Land, a Splatsin Development Corporation) group using protocols specified in the BC Ministry of Environment document *Field Assessment for Determining Fish Passage Status of Closed Bottom Structures* (B.C. Ministry of Environment, 2011). These initial barrier assessments required collection of data such as: 
 
-*   GPS coordinates and road access, 
-    Stream channel width and gradient, 
-    Culvert diameter, length, and slope, 
-    Embedment of the culvert in the substrate (presence, depth), 
-    Height of outlet drop and depth of outlet pool,
-    Subjective measure of habitat quality immediately above and below the culvert,and
-    Site photos.  
+*    GPS coordinates and road access, 
+*    Stream channel width and gradient, 
+*    Culvert diameter, length, and slope, 
+*    Embedment of the culvert in the substrate (presence, depth), 
+*    Height of outlet drop and depth of outlet pool,
+*    Subjective measure of habitat quality immediately above and below the culvert,and
+*    Site photos.  
 
 Once all field data was collected, data quality and barrier passage assessment procedures were performed. After this step, stream crossing data were then entered into the PSCIS assessment worksheet that assigned a barrier status: passable, potential barrier, or barrier. The spreadsheet uses a cumulative score from five fish passage criteria including depth and degree of embedment, outlet drop and pool depth, stream width ratio, culvert slope, and culvert length (BC Ministry of Environment, 2011). These criteria highlight the main factors that make culverts impassable: high velocities inside the culvert, high levels of turbulence within the culvert, and large drops at the culvert outlet. Once all the structures had a score and barrier designation, habitat confirmation assessments (secondary assessment) could be completed for those that scored as barriers or potential barriers. 
 
