@@ -1,12 +1,19 @@
 # Progress Reporting {-}
-
-## Progress Reporting {-}
-
-
+This WCRP was initiated in 2023. Since then, the passability of 71 structures has been assessed, and further habitat assessments were completed at 0 of these. Five priority barriers have been identified among the three watersheds. 
 
 ## Rehabilitated Barriers {-}
+No barriers were rehabilitated through the implementation of this WCRP as of May 2026. 
 
 ## Annual Progress Report {-}
+Since April 2025, the following actions were completed:
 
+*   Continued (indent 4 spaces)SFC and CWF presented the connectivity plan and process at the Salmonid Enhancement Program Community Workshop in Kamloops, B.C. in June 2025.
+    The first version of this WCRP was developed. 
+    Barrier assessments were completed for 2 structures, resulting in 1 structure confirmed as a barrier and 1 structure excluded because there was no habitat upstream.
+    Owners were identified and contacted for 1 priority barrier. 
+    The connectivity models were updated based on the above actions, and outputs were incorporated into this updated version of the WCRP. 
 
 ## Priority Barriers {-}
+Table 14: Structures in the Bonaparte River watershed that are confirmed as barriers to fish passage for Pacific salmon and steelhead with confirmed habitat upstream, as of May 2026. Barriers known to be partially passable are indicated by “yes”, with further details provided in the adjacent column. Habitat gain represents the amount (km) of habitat upstream of that barrier to the next structure that will be reconnected if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity.  
+
+Table 15: Structures in the Eagle River watershed that are confirmed as barriers to fish passage for Pacific salmon and steelhead with confirmed habitat upstream, as of May 2026. Barriers known to be partially passable are indicated by “yes”, with further details provided in the adjacent column. Habitat gain represents the amount (km) of habitat upstream of that barrier to the next structure that will be reconnected if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity.  
