@@ -1,25 +1,42 @@
-
-# Key Ecological Attributes and Connectivity Status Results  {-}
-
 ## Current Connectivity Status {-}
+In the Bonaparte River watershed, X km of Pacific salmon and steelhead habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
 
+In the Bessette Creek watershed, X km of Pacific salmon and steelhead habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
 
-## Goals {-}
+In the Eagle River watershed, X km of Pacific salmon and steelhead habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
 
+A breakdown of connectivity status by watershed and habitat type (i.e., spawning, rearing, both combined) is provided in Table 10. 
 
+Table 10: Connectivity status assessment for spawning (a) and rearing (b) habitat in the Bonaparte River, Eagle River, and Bessette Creek watersheds. Connected spawning and rearing habitat are evaluated by dividing the length of linear habitat (of each type) that is currently connected to focal species by the total length of all linear habitat (of each type) in the watershed. 
 
 ## Structure Count {-}
 
+In the Bonaparte River watershed,  X structures potentially disconnect Pacific salmon and steelhead habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
 
+In the Bessette Creek watershed,  X structures potentially disconnect Pacific salmon and steelhead habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+
+In the Eagle River watershed,  X structures potentially disconnect Pacific salmon and steelhead habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
 
 ## Maps {-}
+![Figure 1: Map of Pacific salmon and steelhead habitat and structures that are confirmed or potential barriers to fish passage in the Bonaparte River watershed as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon and steelhead could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon and steelhead for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).](images/Fig_1_Bonp.png)
 
+![Figure 2: Map of Pacific salmon and steelhead habitat and structures that are confirmed or potential barriers to fish passage in the Bessette Creek watershed as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon and steelhead could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon and steelhead for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).](images/Fig_2_Bessette.png)
+
+![Figure 3: Map of Pacific salmon and steelhead habitat and structures that are confirmed or potential barriers to fish passage in the Eagle River watershed as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon and steelhead could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon and steelhead for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected.](images/Fig_3_Eagle.png)
 
 
 ## Habitat Accumulation Curves
+![Figure 4: Habitat Accumulation Curve (HAC) showing structures in the Bonaparte River watershed as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon and steelhead is upstream. The y-axis represents the cumulative amount of potential spawning and rearing habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.](images/bonp-hac.png)
 
+![Figure 5: Habitat Accumulation Curve (HAC) showing structures in the Bessette Creek watershed as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon and steelhead is upstream. The y-axis represents the cumulative amount of potential spawning and rearing habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.](images/bessette-hac.png)
+
+![Figure 6: Habitat Accumulation Curve (HAC) showing structures in the Eagle River watershed as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon and steelhead is upstream. The y-axis represents the cumulative amount of potential spawning and rearing habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown; however, rehabilitated barriers are shown to demonstrate the connectivity gains achieved through implementation of this plan.](images/eagle-hac.png)
 
 
 ## Habitat Accumulation Summary Table
+Table 11: Labelled structures in the Habitat Accumulation Curve (Figure 4), their rank, and upstream habitat for Pacific salmon and steelhead in the Bonaparte River watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
 
+Table 12: Labelled structures in the Habitat Accumulation Curve (Figure 5), their rank, and upstream habitat for Pacific salmon and steelhead in the Bessette Creek watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored. 
+
+Table 13: Labelled structures in the Habitat Accumulation Curve (Figure 6), their rank, and upstream habitat for Pacific salmon and steelhead in the Eagle River watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored. 
 
