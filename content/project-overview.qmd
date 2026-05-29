@@ -20,11 +20,14 @@ To restore and protect the salmon populations of the Thompson-Shuswap region thr
 
 ## Scope  {-}
 
-The primary geographic scope of this WCRP encompasses the Thompson-Shuswap watersheds, situated within Secwepemcúl’ecw, the traditional territory of the Secwépemc People, in south-central British Columbia. This project specifically includes the Bonaparte River, Bessette Creek, and Eagle River watersheds (Figure 7). The Bonaparte River watershed is represented by the St’uxwtéws (Bonaparte First Nation), while the Splatsin te Secwépemc (Splatsin First Nation) stewards the Eagle River and Bessette Creek watersheds. These areas are integral to the ecological and cultural fabric of the region and are critical for the implementation of connectivity enhancements to support anadromous salmonids. 
+The primary geographic scope of this WCRP encompasses the Thompson-Shuswap watersheds, situated within Secwepemcúl’ecw, the traditional territory of the Secwépemc People, in south-central British Columbia. This project specifically includes the Bonaparte River, Bessette Creek, and Eagle River watersheds (@fig-geoscope). The Bonaparte River watershed is represented by the St’uxwtéws (Bonaparte First Nation), while the Splatsin te Secwépemc (Splatsin First Nation) stewards the Eagle River and Bessette Creek watersheds. These areas are integral to the ecological and cultural fabric of the region and are critical for the implementation of connectivity enhancements to support anadromous salmonids. 
 
 The defined scope aligns with strategic conservation efforts aimed at restoring and enhancing salmonid habitat connectivity. This initiative is part of a broader strategy to address aquatic ecosystem health across key watersheds for focused conservation actions. By concentrating efforts in these watersheds, the WCRP aims to make significant strides in reversing habitat fragmentation and improving the survival prospects of culturally and ecologically significant fish populations. 
 
-![Figure 7: Map of the geographic scope of this connectivity restoration plan for Pacific salmon and steelhead in the Bonaparte River, Bessette Creek, and Eagle River watersheds in British Columbia.](images/Fig_7_Geo scope.png)
+![Figure 7: Map of the geographic scope of this connectivity restoration plan for Pacific salmon and steelhead in the Bonaparte River, Bessette Creek, and Eagle River watersheds in British Columbia.](images/Fig_7_Geo scope.png){#fig-geoscope}
+ 
+
+
 ### Eagle River 
 The Eagle River watershed, situated in British Columbia and forming part of the expansive Fraser River drainage basin through the Thompson River, originates in the mountains west of Revelstoke and makes its journey to Shuswap Lake at Sicamous. This vital ecological corridor is enriched by significant tributaries, notably the Perry River, which converges with the Eagle River near Malakwa. The watershed supports a rich biodiversity, including key fish species such as both anadromous Sockeye Salmon and the land-locked life history type of Sockeye Salmon known as kokanee; Rainbow Trout (*O. mykiss*), Coho Salmon, and Chinook Salmon, all reliant on its diverse aquatic habitats. 
 
@@ -57,35 +60,35 @@ Table 1: Focal fish species in the Eagle and Bonaparte River and Bessette Creek 
 
 Culturally, salmonids are woven into the fabric of Secwépemc life, having sustained generations through their roles in diet, spiritual practices, and social structures. They are celebrated in various cultural practices closely linked to their life cycles, playing a vital role in the transmission of ecological knowledge and traditions across generations. The enduring relationship between the Secwépemc people and these salmon species highlights a profound connection that spans both spiritual and sustenance-based needs, illustrating the deep cultural reverence for these fish (Walters et al. 2018). 
 
-### Chinook Salmon | Kekèsu | Oncorhynchus tshawytscha {-}
+### Chinook Salmon | Kekèsu | *Oncorhynchus tshawytscha* {-}
 Chinook Salmon, or Kekésu7 as known in Secwepemctsin is the largest species of Pacific salmon (DFO, 2020). Populations are categorized as “stream-type” or “ocean-type.”  Interior systems with snow-dominated hydrological regimes tend to support populations of stream-type Chinook that overwinter for a year or more. Chinook that spawn and rear in the Deadman River and Bessette Creek are a part of the Designatable Units 15 and 14 respectively, and were both designated Endangered by the Committee on the Status of Endangered Wildlife in Canada (COSEWIC; COSEWIC, 2018; COSEWIC, 2020a). 
 
 Lower Thomspon River Chinook species (Bonaparte) face several continuing and severe threats in their freshwater and marine habitats, including post-Pine Beetle deforestation, short and long-term effects from wildfires (the large Elephant Hill fire occurred here in 2018), habitat destabilization, and climate-change induced disruption to water quality. Agriculture water withdrawal is substantial and ongoing (DFO 2020). 
 
-Table 2: Chinook Salmon Conservation Units in the Eagle River, Bonaparte River and Bessette Creek watersheds. Assessments undertaken by the Pacific Salmon Foundation (2025). 
+Table 2: Chinook Salmon Conservation Units in the Eagle River, Bonaparte River and Bessette Creek watersheds. Assessments undertaken by the [Pacific Salmon Foundation (2025)](https://www.salmonexplorer.ca/#!/pop=ABUNDANCE_TREND). 
 
 Table 3: Chinook Salmon COSEWIC Designated Units and their status for the Eagle River, Bonaparte River and Bessette Creek watersheds (COSEWIC, 2018; COSEWIC, 2020a). 
 
-### Sockeye Salmon | Sqlelten7ùwi | Oncorhynchus nerka  {-}
+### Sockeye Salmon | Sqlelten7ùwi | *Oncorhynchus nerka*  {-}
 Sockeye salmon, or Sqlélten as known in Secwepemctsín, are an essential part of the ecosystem in British Columbia, existing as isolated populations in freshwater systems that have adapted to their specific local environments over generations (COSEWIC 2017). These salmon are a vital link in both the freshwater and marine food chains. Juvenile Sockeye Salmon are born in the pristine rivers and lakes, where they spend the first 2 years of their lives, rearing in the nutrient-rich freshwater habitat before beginning their journey to the ocean. Once they reach the ocean, they spend several years maturing before returning to their natal streams as adults. Sockeye Salmon typically range in age from 3 to 6 years old, with the majority of Fraser River Sockeye returning as 4-year-olds, though this can vary based on environmental conditions. As part of their life cycle, Sockeye exhibit a phenomenon known as “cyclic dominance,” where the population experiences large fluctuations in abundance, with peaks occurring every four years. During their spawning migration, adult Sockeye undergo dramatic physical transformations, turning a vibrant red with a greenish head, a display that could be attributed to their rich diet of shrimp, crustaceans, and other marine organisms while at sea. This striking coloration plays an important role in mate selection during spawning. However, despite their resilience and remarkable life cycle, data from the Pacific Salmon Explorer (Pacific Salmon Foundation 2025) indicates that the population of Eagle River Sockeye and other Sockeye species in the region have been in decline, likely due to a combination of climate change, habitat degradation, and overfishing, which threaten their long-term survival. 
 
-Table 4: Sockeye Salmon Conservation Units in the Eagle River watershed. Assessments undertaken by the Pacific Salmon Foundation (2025). 
+Table 4: Sockeye Salmon Conservation Units in the Eagle River watershed. Assessments undertaken by the [Pacific Salmon Foundation (2025)](https://www.salmonexplorer.ca/#!/pop=ABUNDANCE_TREND). 
 
 Table 5: Sockeye Salmon COSEWIC Designated Units and their status for the Eagle River watershed (COSEWIC 2017).
 
-### Coho Salmon | Sxeyqs | Oncorhynchus kisutch {-}
+### Coho Salmon | Sxeyqs | *Oncorhynchus kisutch* {-}
 Interior Fraser Coho, or Sxeyqs as known in Secwepemctsín, represent a unique genetic lineage of Coho Salmon. These salmon initially migrated to the Fraser River watershed through post-glacial lake connections from middle/upper Columbia River populations, which are now extinct. Today, the Interior Fraser Coho are the last remaining descendants of this distinct genetic group (Northcote and Larkin, 1989). Exhibiting strong spawning site fidelity, the Interior Fraser Coho contribute to the diversity of genetically distinct populations within the species. They are divided into five sub-groups: North Thompson, South Thompson, Lower Thompson, Fraser Canyon area, and Middle/Upper Fraser (Holtby and Ciruna, 2007). Designated as Endangered by COSEWIC in 2002 (COSEWIC, 2002), the Interior Fraser Coho faces threats from adverse marine conditions, overexploitation, and freshwater habitat degradation. A recent improvement in their status led to their reclassification as Threatened in 2016 (COSEWIC, 2016). 
 
-Table 6: Coho Salmon Conservation Units in the Eagle River, Bonaparte River and Bessette Creek watersheds. Assessments undertaken by the Pacific Salmon Foundation (2025). 
+Table 6: Coho Salmon Conservation Units in the Eagle River, Bonaparte River and Bessette Creek watersheds. Assessments undertaken by the [Pacific Salmon Foundation (2025)] (https://www.salmonexplorer.ca/#!/pop=ABUNDANCE_TREND). 
 
 Table 7: Coho Salmon COSEWIC Designated Units and their status for the Eagle River, Bonaparte River and Bessette Creek watersheds (COSEWIC, 2016). 
 
-### Steelhead | Sgwígwle | Oncorhynchus mykiss {-}
+### Steelhead | Sgwígwle | *Oncorhynchus mykiss* {-}
 Rainbow Trout, a species in the salmonidae family, demonstrate two main life histories: migratory and resident. The determination of whether a Rainbow Trout will adopt a migratory or resident lifestyle is influenced by genetic factors and environmental conditions (Neave, 1944; Doctor et al., 2014). In certain populations, environmental triggers cause juveniles to migrate to the sea, adopting an anadromous life cycle known as steelhead or Sgwígwle in Secwepemctsín. These fish eventually return to their native streams to spawn. Specifically, the steelhead in the Bonaparte River watershed belong to a subgroup called Thompson River steelhead, which also includes populations from the Deadman and Nicola watersheds (Bison, 2023). This group exhibits distinct genetic and environmental interactions compared to other populations. Currently, there is no targeted research exploring the genetic differences between Thompson River steelhead and resident Rainbow Trout (COSEWIC, 2020*b*). In 2018, Thompson River steelhead were classified as Endangered by COSEWIC, a designation applied to species that have seen a reduction of 70% or more in the number of mature individuals over ten years or three generations (whichever is longer), with a significant risk of becoming extirpated or extinct (COSEWIC, 2021). 
 
-Table 8: Steelhead Conservation Units in the Bonaparte River watershed.  Assessments undertaken by the Pacific Salmon Foundation (2025). 
+Table 8: Steelhead Conservation Units in the Bonaparte River watershed.  Assessments undertaken by the [Pacific Salmon Foundation (2025)](https://www.salmonexplorer.ca/#!/pop=ABUNDANCE_TREND). 
 
-Table 9: Steelhead COSEWIC Designated Units and their status for the Bonaparte River watershed (COSEWIC, 2020b). 
+Table 9: Steelhead COSEWIC Designated Units and their status for the Bonaparte River watershed (COSEWIC, 2020*b*). 
 
 ## Barrier Types {-}
 Connectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams and stream crossings. Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity. 
