@@ -1,0 +1,30 @@
+# Glossary {-}
+
+## General Terms {-}
+*Freshwater connectivity*: the degree to which aquatic species can move, disperse, or migrate freely through freshwater systems. 
+
+*Focal species or guilds*: the ecologically and culturally important species (e.g., Chinook Salmon) or groups of species for which habitat connectivity is being conserved or restored. 
+
+*Structure*: a feature, either anthropogenic (e.g., culvert, dam) or a temporary natural feature (e.g., barrier beach, debris jam) that may fragment freshwater systems and limit the ability of species to disperse and/or migrate freely within their naturally accessible habitat. Differentiated from more permanent natural features, such as waterfalls, that delineate naturally accessible waterbodies. 
+
+*Set of structures*: a set of two or more structures that must be addressed/considered together to achieve a combined increase in habitat connectivity. 
+
+*Current connectivity status*: the measure (i.e., amount, proportion, or index) of habitat that is currently connected to the ocean for each focal species, assuming that all unassessed structures are barriers.  
+
+*Rank*: the relative importance of a structure (individually and/or in sets) based on the amount (km) of habitat blocked by it. For sets of structures, the total amount of habitat blocked by the set is averaged by the number of barriers in the set.  
+
+*Habitat*: Key habitat that is likely to support important life stages for focal species (i.e., spawning and rearing), rather than simply movement corridors. 
+
+
+## Structure Status Terms  {-}
+*Unassessed structures*: mapped structures that have not been assessed in the field. 
+
+*Excluded structures*: structures that were investigated and removed from consideration or the model because they do not exist, are passable, or no key habitat was found upstream. 
+
+*Data-deficient barriers*: structures that have had some form of assessment but need further investigation before a decision can be made as to whether they will be listed as a priority. 
+
+*Priority barrier*: structures that were assessed as barriers with habitat upstream, and for which fish-passage rehabilitation is being pursued. 
+
+*Non-actionable barriers*: structures that were assessed as barriers with habitat upstream, but for which fish-passage rehabilitation is not being actively pursued.  
+
+*Rehabilitated barriers*: barriers that were removed, replaced, or modified to improve fish passage.

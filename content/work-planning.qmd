@@ -1,76 +1,12 @@
 # Work Planning {-}
+Structures are primarily ranked to inform field-assessment planning. Higher-ranked structures contribute greater potential toward habitat connectivity restoration and are therefore typically higher priorities for field assessment. They also represent key knowledge gaps with potential to significantly affect model results. Estimates of current connectivity status could improve considerably, for instance, if many high-ranking structures are passable or do not have habitat upstream. Habitat accumulation curves support decision making around how many and which structures should be assessed, by showing which structures may only minimally affect connectivity. High-ranked structures with minimal habitat upstream may be located low on these curves, because they must be addressed before benefits can be achieved by addressing lower-ranked barriers with more upstream habitat. 
 
-## Annual Progress Report {.unnumbered}
-
-## Operational Plan {.unnumbered}
-
-The operational plan represents a preliminary exercise undertaken by the planning team to identify the potential leads, potential participants, and estimated cost for the implementation of each action in the Thompson-Shuswap watershed. The table below summarizes individuals, groups, or organizations that the planning team felt could lead or participate in the implementation of the plan and should be interpreted as the first step in on-going planning and engagement to develop more detailed and sophisticated action plans for each entry in the table. The individuals, groups, and organizations listed under the "Lead(s)" or "Potential Participants" columns are those that provisionally expressed interest in participating in one of those roles or were suggested by the planning team for further engagement (denoted in bold), for those that are not members of the planning team. The leads, participants, and estimated costs in the operational plan are not binding nor an official commitment of resources, but rather provide a roadmap for future coordination and engagement to work towards implementation of the WCRP.
-
-```{python echo=FALSE}
-#| label: tbl-S1
-#| tbl-cap: "Strategy 1"
-#| warning: false
-#| echo: false
-
-import numpy as np
-from IPython.display import display
-import pandas as pd
-
+If confirmed as barriers, high-ranking structures are also often priorities for further field assessments to confirm upstream habitat before decisions are made about where fish passage should be rehabilitated. 
  
-def fix_table(val):
-    return str(val)
+Once field assessments are completed, management decisions are made for each assessed structure. An assessed structure may be excluded from the model if it is passable or there is no habitat upstream, or it may be listed as a priority barrier for fish-passage rehabilitation. Alternatively, some structures confirmed as barriers may be considered “non-actionable” because the amount and quality of habitat upstream may be low and the costs of rehabilitation may be high relative to those limited potential benefits. 
 
-def highlighttab7(val):
-    red = '#ff0000;'
-    yellow = '#ffff00;'
-    lgreen = '#92d050;'
-    dgreen = '#03853e;'
-
-    if val=="Medium" or val=="Need more information": color = yellow
-    elif val=="Very high" or val=="Very effective" : color = lgreen
-    elif val =="High" or val=="Effective": color = dgreen
-    else: color = 'white'
-    return 'background-color: %s' % color
-
-```
-
-```{python opplan, echo=FALSE}
-#| label: tbl-opplan
-#| tbl-cap: "SAMPLE Operational plan to support the implementation of strategies and actions to improve connectivity for target species in watershed."
-#| warning: false
-#| echo: false
-
-from IPython.display import display
-import pandas as pd
-import numpy as np
+Model ranks provide only limited information on the relative value of rehabilitation among priority barriers. Ranks convey only the relative amount of habitat upstream and do not represent other factors relevant to restoration prioritization, such as habitat quality, cost, social priorities, or logistical constraints and opportunities. Deciding which priority barriers to address first is a social decision-making process that is only partially informed by model outputs. Model outputs also provide broader context about how many structures exist in the system, how many have been identified as priority barriers, and how much habitat is upstream of each relative to others. 
 
 
-def df_operation(val):
-    return "background-color: black; color: white"
-
-
-data = pd.read_csv('data/operational-plan.csv', index_col=False)
-
-data = data.replace(np.nan, '', regex=True)
-
-rows = pd.IndexSlice[[0,10,16,23,26,29,30,31], :]
-
-data = data.style.applymap(df_operation, subset=rows).hide().set_properties(**{'text-align': 'left'})
-data.set_table_styles(
-   [{
-       'selector': 'th',
-       'props': [('background-color', '#008270'),('text-align', 'left')]
-   }])
-
-```
-
-```{r fund, echo = FALSE, results = 'asis'}
-#| label: tbl-fund
-#| tbl-cap: "Potential funding sources for plan implementation in Thompson-Shuswap watershed. The Canadian Wildlife Federation and the planning team can coordinate proposal submission through these sources."
-#| warning: false
-
-library("flextable")
-
-```
-
-## Annual Work Plan {-}
+## Workplan {-}
+The 2026-2027 work plan is currently in development. This section will be updated when the work plan has been finalized. 

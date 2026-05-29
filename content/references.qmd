@@ -1,6 +1,94 @@
 
+# Acknowledgements and References {-}
 
-# References {.unnumbered}
+## Recommended Citation 
+S. Sra, L. Steele, J. Sterling, B. Rebellato, F. Montgomery, L. Bernardi, N. Mazany-Wright, and N. W. R. Lapointe. 2026. Thompson-Shuswap watershed connectivity restoration plan. Canadian Wildlife Federation, Ottawa, ON and Secwepemc Fisheries Commission, Kamloops, B.C.  
 
-::: {#refs}
-:::
+## Acknowledgements {-}
+This plan is the culmination of a collaborative planning process undertaken in the Eagle River, Bessette Creek and Bonaparte River watersheds over many months with a team of individuals and groups that are passionate about the conservation and restoration of freshwater ecosystems and the species they support. Plan development was funded by the BC Salmon Restoration and Innovation Fund and the Canada Nature Fund for Aquatic Species at Risk. We were fortunate to benefit from the feedback, guidance, and wisdom of many people who volunteered their time throughout this process — this publication would not have been possible without the engagement of our partners and the Project Team (see Appendix B - Partners). Model outputs were further refined based on feedback provided by local knowledge holders beyond the planning team. Accessibility models were inspired by fish-passage prioritization approaches developed by British Columbia’s Fish Passage Technical Working Group. 
+
+We recognize the incredible fish passage and connectivity work that has occurred in the Eagle River, Bessette Creek, and Bonaparte River watersheds to date, and we are excited to continue partnering with local groups and organizations to build up existing initiatives and provide a road map to push connectivity restoration forward over the next 10 years and beyond. 
+
+Secwépemc Fisheries Commission (SFC) and the Canadian Wildlife Federation (CWF) recognize that the lands and waters that form the basis of this plan are the traditional unceded territory of the Splatsin te Secwépemc and St’uxwtéws. We are grateful for the opportunity to learn from the stewards of this land and work together to benefit Pacific Salmon and steelhead. 
+
+
+## References {-}
+British Columbia Ministry of Environment. 2011. Field Assessment for Determining Fish Passage Status of Closed Bottom Structures. Victoria (BC): Province of British Columbia. 
+
+ 
+
+Cederholm CJ, Johnson DH, Bilby RE, Dominguez LG, Garrett AM, Graeber WH, Greda EL, Kunze MD, Marcot BG, Palmisano JF, Plotnikoff RW, Pearcy WG, Simenstad CA, Trotter PC. 2000. Pacific Salmon and Wildlife - Ecological Contexts, Relationships, and Implications for Management. Special Edition Technical Report, Prepared for D. H. Johnson and T. A. O’Neil (Managing directors), Wildlife-Habitat Relationships in Oregon and Washington. WDFW, Olympia, Washington. Available from: https://wdfw.wa.gov/publications/00056 
+
+ 
+
+COSEWIC 2002. COSEWIC assessment and status report on the coho salmon Oncorhynchus kisutch (Interior Fraser population) in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. viii + 34 pp. 
+
+ 
+
+COSEWIC. 2016. COSEWIC assessment and status report on the Coho Salmon Oncorhynchus kisutch, Interior Fraser population, in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. xi + 50 pp. (http://www.registrelep-sararegistry.gc.ca/default.asp?lang=en&n=24F7211B-1). 
+
+ 
+
+COSEWIC. 2017. COSEWIC assessment and status report on the Sockeye Salmon Oncorhynchus nerka, 24 Designatable Units in the Fraser River Drainage Basin, in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. xli + 179 pp. (http://www.registrelepsararegistry.gc.ca/default.asp?lang=en&n=24F7211B-1)  
+
+ 
+
+COSEWIC. 2018. COSEWIC assessment and status report on the Chinook Salmon Oncorhynchus tshawytscha, Designatable Units in Southern British Columbia (Part One – Designatable Units with no or low levels of artificial releases in the last 12 years), in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. xxxi + 283 pp. (http://www.registrelepsararegistry.gc.ca/default.asp?lang=en&n=24F7211B-1). 
+
+ 
+
+COSEWIC. 2020a. COSEWIC assessment and status report on the Chinook Salmon Oncorhynchus tshawytscha, Designatable Units in Southern British Columbia (Part Two – Designatable Units with High Levels of Artificial Releases in the Last 12 Years), in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. xxxv + 203 pp. (https://www.canada.ca/en/environmentclimate-change/services/species-risk-public-registry.html). 
+
+ 
+
+COSEWIC. 2021. COSEWIC assessment process, categories and guuidelines. Pproved by COSEWIC in November 2021. https://cosewic.ca/images/cosewic/pdf/Assessment_process_criteria_Nov_2021_en.pdf  
+
+ 
+
+[DFO] Fisheries and Oceans Canada. 2020. Recovery potential assessment for 11 Designatable Units of Fraser River Chinook Salmon, Onchorhychus tshawytcha, Part 1: Elements 1 to 11. Canadian Science Advisory Secretariat, Pacific Region Science Advisory Report 2020/023. Available from: https://publications.gc.ca/collections/collection_2020/mpo-dfo/fs70-6/Fs70-6-2020-023-eng.pdf’ 
+
+ 
+
+COSEWIC. 2020b. COSEWIC assessment and status report on the Steelhead Trout Oncorhynchus mykiss (Thompson River and Chilcotin River populations) in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. xvi + 104 pp. (https://www.canada.ca/en/environment-climatechange/services/species-risk-public-registry.html). 
+
+ 
+
+Doctor, K.K., Berejikian, B.A., Hard, J.J., and Van Doornik, D.M. 2014. Growth-mediated life history traits of steelhead and resident rainbow trout. Transactions of the American Fisheries Society. 143(6): 1503–1517. 
+
+ 
+
+Ecoscape Environmental Consultants Ltd. 2015. Eagle River Inventory, Mapping, and Aquatic Habitat Index. Kelowna (BC): Ecoscape Environmental Consultants Ltd. 64 p. 
+
+ 
+
+Fish Passage Technical Working Group. 2014. Fish Passage Assessment Protocol for Stream Crossings. Province of British Columbia. 
+
+ 
+
+Government of Canada. (2021, December 20). COSEWIC assessment and status report on the sockeye salmon (Oncorhynchus nerka) in Canada. Species at Risk Public Registry. https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/sockeye-salmon-2021.html 
+
+Holtby, L.B., and Ciruna, K.A. 2007. Conservation Units for Pacific Salmon under the Wild Salmon Policy. Fisheries and Oceans Canada. Canadian Science Advisory Secretariat Research Document. 
+
+ 
+
+McGill S, Wagner R, Plewes R, Hawes K. 2020. Bonaparte River inventory, mapping, and aquatic habitat index. Kelowna (BC): Ecoscape Environmental Consultants Ltd. Project File: 18-2714. 55 p + maps & appendices. 
+
+ 
+
+Mount, M., et al. 2011. A new approach to identifying barriers to fish passage in stream networks. Canadian Journal of Fisheries and Aquatic Sciences. 68(8): 1365–1380. 
+
+ 
+
+Neave, F. 1944. Racial characteristics and migratory habits in Salmo gairdnerii. Journal of the Fisheries Research Board of Canada. 6(4): 245–251.  
+
+ 
+
+Northcote, T.G., and Larkin, P.A. 1989. The Fraser River: A major salmonine production system. In: Proceedings of the International Large River Symposium. Canadian Special Publication of Fisheries and Aquatic Sciences 106. 
+
+ 
+
+Pacific Salmon Foundation. 2025. Pacific Salmon Explorer. Salmon Watersheds Program, Vancouver, B.C. Available from: https://www.salmonexplorer.ca 
+
+ 
+
+Walters K, Ydenberg R, Reynolds J. 2018. Apex predator behaviour in a changing Salish Sea: determining the role bald eagle foraging behaviour plays in nutrient cycling and terrestrial food webs under diminishing salmon populations. Presented at the Salish Sea Ecosystem Conference; 2018 Apr 4; Seattle, Wash. Available from: https://cedar.wwu.edu/ssec/2018ssec/allsessions/42/ 

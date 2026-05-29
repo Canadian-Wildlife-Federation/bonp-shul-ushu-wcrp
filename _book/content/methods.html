@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Work Planning</title>
+<title>Methods</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -32,8 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/progress-reporting.html" rel="next">
-<link href="../content/connectivity-status.html" rel="prev">
+<link href="../content/connectivity-status.html" rel="next">
+<link href="../content/glossary.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/work-planning.html">Work Planning</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/methods.html">Methods</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Work Planning</h1>
+      <h1 class="title">Methods</h1>
                       </div>
   </div>
     
@@ -153,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/methods.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/methods.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Methods</span></a>
   </div>
 </li>
@@ -165,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/work-planning.html" class="sidebar-item-text sidebar-link active">
+  <a href="../content/work-planning.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Work Planning</span></a>
   </div>
 </li>
@@ -223,15 +223,39 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Structures are primarily ranked to inform field-assessment planning. Higher-ranked structures contribute greater potential toward habitat connectivity restoration and are therefore typically higher priorities for field assessment. They also represent key knowledge gaps with potential to significantly affect model results. Estimates of current connectivity status could improve considerably, for instance, if many high-ranking structures are passable or do not have habitat upstream. Habitat accumulation curves support decision making around how many and which structures should be assessed, by showing which structures may only minimally affect connectivity. High-ranked structures with minimal habitat upstream may be located low on these curves, because they must be addressed before benefits can be achieved by addressing lower-ranked barriers with more upstream habitat.</p>
-<p>If confirmed as barriers, high-ranking structures are also often priorities for further field assessments to confirm upstream habitat before decisions are made about where fish passage should be rehabilitated.</p>
-<p>Once field assessments are completed, management decisions are made for each assessed structure. An assessed structure may be excluded from the model if it is passable or there is no habitat upstream, or it may be listed as a priority barrier for fish-passage rehabilitation. Alternatively, some structures confirmed as barriers may be considered “non-actionable” because the amount and quality of habitat upstream may be low and the costs of rehabilitation may be high relative to those limited potential benefits.</p>
-<p>Model ranks provide only limited information on the relative value of rehabilitation among priority barriers. Ranks convey only the relative amount of habitat upstream and do not represent other factors relevant to restoration prioritization, such as habitat quality, cost, social priorities, or logistical constraints and opportunities. Deciding which priority barriers to address first is a social decision-making process that is only partially informed by model outputs. Model outputs also provide broader context about how many structures exist in the system, how many have been identified as priority barriers, and how much habitat is upstream of each relative to others.</p>
-<section id="workplan" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="workplan">Workplan</h2>
-<p>The 2026-2027 work plan is currently in development. This section will be updated when the work plan has been finalized.</p>
+<p>This WCRP focuses on habitat connectivity for Pacific salmon and steelhead. Model outputs include an estimate of the current connectivity status along with structure ranks and counts for each of the Bonaparte River, Bessette Creek and Eagle River watersheds.</p>
+<p>Connectivity models were produced using BCFishPass, an open-source freshwater connectivity modelling framework, which combines provincial spatial layers with WCRP-specific data tables and includes two sub-models:</p>
+<section id="accessibility-model" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="accessibility-model">Accessibility Model</h2>
+<p>Naturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls, areas with subsurface flows, or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For this analysis, waterbodies are considered accessible if they are accessible to at least one species.</p>
+</section>
+<section id="habitat-model" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="habitat-model">Habitat Model</h2>
+<p>A subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Pacific salmon and steelhead based on stream characteristics such as gradient, channel width and discharge. Habitat was identified by removing first-order streams from the accessible waterbody layer, recognizing that these streams typically have low habitat value for these species. For Pacific salmon and steelhead, all accessible areas were considered potential habitat. Habitat model outputs are overruled by field data and local knowledge of habitat condition and use. For this analysis, areas identified as habitat for at least one species were included as habitat overall.</p>
+</section>
+<section id="connectivity-modelling" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="connectivity-modelling">Connectivity Modelling</h2>
+<p>The overall model used to estimate connectivity status and rank structures. A layer of known or modelled structures was overlaid on the habitat model output. Modelled stream crossings were created from stream network and road/railway Geographic Information System (GIS) data, by mapping where a road or railway crosses a stream. Dam data were obtained from the <a href="aquaticbarriers.ca">Canadian Aquatic Barriers Database</a>. All mapped dams and modelled crossings (henceforth structures) downstream of habitat were considered, but some were classified as non-existent or passable prior to initiating field work and excluded from the model: stream crossings on 6th order and larger streams were assumed to be bridges and classified as passable, as were those identified as bridges in available infrastructure spatial layers. Remaining structures downstream of habitat were examined on ortho satellite imagery (Google, Bing) to exclude structures if they could be visibly verified to be a bridge, not exist, or were cross ditches that did not connect to a stream. Data from previous field assessments were incorporated, and structures identified as passable were excluded. Assessed barriers, dams lacking fishways, and unassessed structures were all treated as barriers in the connectivity model.</p>
+<p>Local knowledge and data were incorporated into model development in two phases and typically overruled modelled outputs where the two differed. Existing reports on habitat, barriers, and fish distributions, when available, were incorporated into the initial model outputs. Maps of initial outputs were then shared with local knowledge holders, who identified model errors or omissions (e.g., unmapped structures, mapped structures that do not exist, known spawning or rearing habitat that was not identified by the model, habitat identified by the model that is known to be inaccessible or unsuitable). The status of closed-bottom structures identified as passable by local knowledge may not have been adjusted until confirmed by field assessments.</p>
+<p>Models were run to produce initial connectivity outputs, and maps were created showing disconnected habitat and associated structures. For diadromous species, connectivity status was estimated by calculating the proportion of habitat that is connected to the ocean (i.e., not fragmented by human-made barriers). Habitat with no structures or only passable structures downstream was considered connected. For non-diadromous species, a “longest fragment” approach was used, whereby connectivity status was estimated by calculating the proportion of habitat found in the single largest interconnected area (i.e., not fragmented by human-made barriers). Habitat separated from this area by one or more barriers or unassessed structures was considered disconnected.</p>
+</section>
+<section id="structure-ranking" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="structure-ranking">Structure Ranking</h2>
+<p>Structures were ranked by the amount of habitat upstream, with the highest ranked structure given a rank of 1. Unassessed structures were considered barriers for ranking purposes. Ranks generally represent the relative amount of habitat upstream. Actual ranking processes are more complex to account for situations where multiple barriers may need to be addressed to reconnect habitat. Barriers with the most habitat upstream may not provide any benefits to focal species until downstream barriers are addressed.</p>
+<p>To manage this, both the overall habitat upstream, and immediate gains (i.e., the amount of habitat to the next structure) are incorporated into the ranking process. This ensures that the first structure encountered by fish is given a high rank, even if, for example, it blocks less than 1 km of habitat. Conversely, a structure blocking 20 km of habitat may be given a lower rank if many downstream structures must be addressed before those gains can be realized.</p>
+<p>Structures are also combined into sets by considering which configuration of groups of up to five structures provides the greatest per-barrier habitat gain. Sets are often identified sequentially by first identifying optimal downstream set configurations, then considering additional upstream sets.</p>
+<section id="field-assessments" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="field-assessments">Field Assessments</h3>
+<p>Model outputs informed, rather than directed, field planning. Of the top-ranked structures, those that had not previously been assessed were considered for field assessment, along with any other structures known locally to be potentially important (e.g., those with a moderate amount of high-quality habitat upstream).</p>
+<p>These selected structures were then assessed by a field crew from SFC and the Yucwmenlúcwu (Caretakers of the Land, a Splatsin Development Corporation) group using protocols specified in the BC Ministry of Environment document <em>Field Assessment for Determining Fish Passage Status of Closed Bottom Structures</em> (B.C. Ministry of Environment, 2011). These initial barrier assessments required collection of data such as:</p>
+<ul>
+<li>GPS coordinates and road access, Stream channel width and gradient, Culvert diameter, length, and slope, Embedment of the culvert in the substrate (presence, depth), Height of outlet drop and depth of outlet pool, Subjective measure of habitat quality immediately above and below the culvert,and Site photos.</li>
+</ul>
+<p>Once all field data was collected, data quality and barrier passage assessment procedures were performed. After this step, stream crossing data were then entered into the PSCIS assessment worksheet that assigned a barrier status: passable, potential barrier, or barrier. The spreadsheet uses a cumulative score from five fish passage criteria including depth and degree of embedment, outlet drop and pool depth, stream width ratio, culvert slope, and culvert length (BC Ministry of Environment, 2011). These criteria highlight the main factors that make culverts impassable: high velocities inside the culvert, high levels of turbulence within the culvert, and large drops at the culvert outlet. Once all the structures had a score and barrier designation, habitat confirmation assessments (secondary assessment) could be completed for those that scored as barriers or potential barriers.</p>
+<p>Habitat confirmation assessments follow guidelines created by the Fish Passage Technical Working Group (Fish Passage Technical Working Group, 2014). They entail another primary assessment to be completed, as well as walking down and upstream of the stream crossing to look at stream values (habitat requirement for fish such as over stream vegetation, undercut banks, presence of spawning gravels) and for other migration barriers. This step helped in the prioritization process when choosing structures to prioritize for rehabilitation. Prioritizing culverts that open more high value habitat is important step when working within a budget and being cost effective. Once secondary assessments were complete, additional stream information was gathered in the prioritization process. Information such as mean annual discharge and species present was taken into consideration. If the stream was found to be ephemeral or was too small to accommodate focal species, then they were excluded from further consideration (see Table 19 Excluded Sructures in Appendix A).</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -637,13 +661,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/connectivity-status.html" class="pagination-link" aria-label="Current Connectivity Status">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Current Connectivity Status</span>
+      <a href="../content/glossary.html" class="pagination-link" aria-label="Glossary">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Glossary</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/progress-reporting.html" class="pagination-link" aria-label="Progress Reporting">
-        <span class="nav-page-text">Progress Reporting</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../content/connectivity-status.html" class="pagination-link" aria-label="Current Connectivity Status">
+        <span class="nav-page-text">Current Connectivity Status</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
