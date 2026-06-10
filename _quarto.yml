@@ -15,6 +15,7 @@ book:
     - content/connectivity-status.qmd
     - content/work-planning.qmd
     - content/progress-reporting.qmd
+    - content/recommendations.qmd
     - content/references.qmd
   appendices: 
     - content/appendix-a.qmd
