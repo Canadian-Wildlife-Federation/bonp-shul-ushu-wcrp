@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: ""
+  title: "Thompson-Shuswap Watershed Connectivity Restoration Plan"
   author: "Canadian Wildlife Federation"
   date: last-modified
   date-format: "DD-MM-YYYY"
@@ -60,8 +60,8 @@ format:
 
 #jupyter: "local-venv"
 
-# execute:
-#   cache: true
+execute:
+  warning: false
 
 #titlepage-bg-image: images/spawn.jpg
 

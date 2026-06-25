@@ -1,21 +1,33 @@
-## Current Connectivity Status {-}
-In the Bonaparte River watershed, X km of Pacific salmon and steelhead habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
+﻿## Current Connectivity Status {-}
+In the Bonaparte River watershed, 205.05 km of Pacific salmon and steelhead habitat are currently connected to the ocean and 51.37 km are disconnected from it. This means that 80.0% of the 256.42 km of total habitat is connected.  
 
-In the Bessette Creek watershed, X km of Pacific salmon and steelhead habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
+In the Bessette Creek watershed, 65.29 km of Pacific salmon and steelhead habitat are currently connected to the ocean and 20.80 km are disconnected from it. This means that 75.8% of the 86.09 km of total habitat is connected.  
 
-In the Eagle River watershed, X km of Pacific salmon and steelhead habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
+In the Eagle River watershed, 154.22 km of Pacific salmon and steelhead habitat are currently connected to the ocean and 9.37 km are disconnected from it. This means that 94.3% of the 163.59 km of total habitat is connected.  
 
 A breakdown of connectivity status by watershed and habitat type (i.e., spawning, rearing, both combined) is provided in Table 10. 
 
-Table 10: Connectivity status assessment for spawning (a) and rearing (b) habitat in the Bonaparte River, Eagle River, and Bessette Creek watersheds. Connected spawning and rearing habitat are evaluated by dividing the length of linear habitat (of each type) that is currently connected to focal species by the total length of all linear habitat (of each type) in the watershed. 
+```{r}
+#| label: table-10
+#| tbl-cap: "Table 10: Connectivity status assessment for spawning (a) and rearing (b) habitat in the Bonaparte River, Eagle River, and Bessette Creek watersheds. Connected spawning and rearing habitat are evaluated by dividing the length of linear habitat (of each type) that is currently connected to focal species by the total length of all linear habitat (of each type) in the watershed."
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/tbl-10-connectivity-status.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
 
 ## Structure Count {-}
 
-In the Bonaparte River watershed,  X structures potentially disconnect Pacific salmon and steelhead habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the Bonaparte River watershed,  37 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 3 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 34 require further field assessment. 
 
-In the Bessette Creek watershed,  X structures potentially disconnect Pacific salmon and steelhead habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the Bessette Creek watershed,  9 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 0 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 9 require further field assessment. 
 
-In the Eagle River watershed,  X structures potentially disconnect Pacific salmon and steelhead habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the Eagle River watershed,  13 structures potentially disconnect Pacific salmon and steelhead habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 11 require further field assessment. 
 
 ## Maps {-}
 ![Figure 1: Map of Pacific salmon and steelhead habitat and structures that are confirmed or potential barriers to fish passage in the Bonaparte River watershed as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon and steelhead could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon and steelhead for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).](images/Fig_1_Bonp.png)
@@ -34,9 +46,49 @@ In the Eagle River watershed,  X structures potentially disconnect Pacific salmo
 
 
 ## Habitat Accumulation Summary Table
-Table 11: Labelled structures in the Habitat Accumulation Curve (Figure 4), their rank, and upstream habitat for Pacific salmon and steelhead in the Bonaparte River watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
+```{r}
+#| label: table-11
+#| tbl-cap: "Table 11: Labelled structures in the Habitat Accumulation Curve (Figure 4), their rank, and upstream habitat for Pacific salmon and steelhead in the Bonaparte River watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored."
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
 
-Table 12: Labelled structures in the Habitat Accumulation Curve (Figure 5), their rank, and upstream habitat for Pacific salmon and steelhead in the Bessette Creek watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored. 
+data <- read.csv("data/tbl-11-has-bonp.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
 
-Table 13: Labelled structures in the Habitat Accumulation Curve (Figure 6), their rank, and upstream habitat for Pacific salmon and steelhead in the Eagle River watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored. 
+```{r}
+#| label: table-12
+#| tbl-cap: "Table 12: Labelled structures in the Habitat Accumulation Curve (Figure 5), their rank, and upstream habitat for Pacific salmon and steelhead in the Bessette Creek watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored."
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/tbl-12-has-bessette.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+```{r}
+#| label: table-13
+#| tbl-cap: "Table 13: Labelled structures in the Habitat Accumulation Curve (Figure 6), their rank, and upstream habitat for Pacific salmon and steelhead in the Eagle River watershed. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored."
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/tbl-13-has-eagle.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+
+
+
 
