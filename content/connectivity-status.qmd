@@ -1,4 +1,6 @@
-﻿## Current Connectivity Status {-}
+﻿#Connectivity Status Results {-}
+
+## Current Connectivity Status {-}
 In the Bonaparte River watershed, 205.05 km of Pacific salmon and steelhead habitat are currently connected to the ocean and 51.37 km are disconnected from it. This means that 80.0% of the 256.42 km of total habitat is connected.  
 
 In the Bessette Creek watershed, 65.29 km of Pacific salmon and steelhead habitat are currently connected to the ocean and 20.80 km are disconnected from it. This means that 75.8% of the 86.09 km of total habitat is connected.  
